@@ -9,5 +9,5 @@ Seeing is believing! I will show this live demo!
 - I open the web app on IBM Cloud Code Engine.
 - It shows a rotating Babylon.js 3D cube.
 - I tap it!
-- sends an MQTT message to the IoT devices (a light and a motor).
+- The tap sends an MQTT message to the IoT devices (a light and a servo).
 

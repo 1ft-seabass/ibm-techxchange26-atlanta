@@ -6,5 +6,9 @@ This repository is Seigo Tanaka's "Practical IBM Bob Prototyping Development! - 
 
 - [Introduction](./01-introduction.md)
 - [Live Demo](./02-live-demo.md)
-- [Try and Error Points](./03-try-and-error-points.md)
+- [Trial-and-error lessons](./03-try-and-error-points.md)
 - [Key Insights](./04-key-insights.md)
+
+## Conclusion
+
+Bob is an AI development partner for prototyping across 3D, IoT and frontend technologies. Share your technical context and project history to help Bob provide more relevant assistance.

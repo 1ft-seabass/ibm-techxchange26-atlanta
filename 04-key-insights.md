@@ -1,13 +1,12 @@
 # Key Insights
 
-These are my takeaways from [Try and Error Points](./03-try-and-error-points.md).
+These are my takeaways from [Trial-and-error lessons](./03-try-and-error-points.md).
 
-- Bob can support cloud development continuously.
+- Bob supports iterative cloud-development tasks.
   - Bob helped with Code Engine setup, deploys, and cleanup.
-- Bob handles new tech collaboration, like 3D + IoT.
-  - Here, "collaboration" means combining different technologies.
+- Bob helped connect technologies across the 3D, MQTT and IoT workflow.
   - Bob followed my prototyping approach, starting with 3D.
-- Careful context through sessions and at kickoff makes Bob stronger.
+- Providing architecture, constraints and prior decisions at the start of each session made Bob's assistance more relevant.
   - I don't just build the prototype. I keep the history as we go.
-  - So Bob can understand the project at any time.
+  - So Bob can catch up on the project at any time.
   - My notes/history system keeps Bob accurate.
