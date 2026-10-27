@@ -13,3 +13,7 @@
   - I share my prototyping know-how with Bob.
     - For example, accurate spec docs.
   - With this knowledge, Bob helped me build prototypes even in new areas like 3D and IoT.
+
+## How notes/history works
+
+![Diagram: each session writes notes to docs/notes and a hand-off letter to docs/letters for the next session](image-3.png)

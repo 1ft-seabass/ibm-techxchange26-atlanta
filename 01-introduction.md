@@ -1,16 +1,22 @@
 # Introduction & Today's Architecture
 
-Source code of today's architecture: https://github.com/1ft-seabass/ibm-bob-codeengine-techxchange26-atlanta 
+## Source code
 
-![alt text](image-1.png)
+![Screenshot of the public GitHub repository for today's source code](image-4.png)
+
+Source code of today's architecture: https://github.com/1ft-seabass/ibm-bob-codeengine-techxchange26-atlanta
+
+## Architecture
+
+![Diagram step 1: a person with a laptop, "I made with IBM Bob!"](image-1.png)
 
 I made this with IBM Bob for my tech prototyping.
 
-![alt text](image-2.png)
+![Diagram step 2: a Babylon.js cube running on IBM Cloud Code Engine, tapped from the laptop](image-2.png)
 
 This is a Hono + Vue + Bootstrap + Babylon.js system running on IBM Cloud Code Engine.
 
-![alt text](2026-10-25-00-36-07-851.jpg)
+![Diagram step 3: the tap sends an MQTT message to the IoT devices, a LEGO light and servo](2026-10-25-00-36-07-851.jpg)
 
 When the Babylon.js cube is tapped, it controls an IoT light and an IoT servo with MQTT.
 
@@ -28,5 +34,7 @@ When the Babylon.js cube is tapped, it controls an IoT light and an IoT servo wi
   - Web backend + frontend
   - IoT MQTT protocol handling
   - Babylon.js 3D UI making
+
+## Next
 
 I want to build this kind of collaboration prototype for client work!

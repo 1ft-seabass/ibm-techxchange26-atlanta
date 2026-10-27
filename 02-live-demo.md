@@ -1,6 +1,6 @@
 # Live Demo
 
-![alt text](2026-09-24-14-31-45-253.jpg)
+![Photo of the two LEGO IoT devices: a servo with a red arm and a light box](2026-09-24-14-31-45-253.jpg)
 
 Seeing is believing! I will show this live demo!
 
